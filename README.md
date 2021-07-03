@@ -18,7 +18,7 @@
 - 🎮 **모의 해킹 대회** CTF Team Maple (2019 ~ 현재)
 
 
-- 🚀 **Kitri** 차세대 보안 인재 양성 프로그램 [Best on the best 10기](https://github.com/rishavanand/github-profilinator) 교육생  
+- 🚀 **Kitri** 차세대 보안 인재 양성 프로그램 [Best of the best](https://www.kitribob.kr) 10기 교육생  
     
 
 <br/>  
