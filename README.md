@@ -12,7 +12,7 @@
   -  팀장 (2020 ~ 2021)
 
 
-- 🔭 GDG Daejoen (2019 ~ 현재)
+- 🔭 Google Developer Group, **GDG** Daejoen (2019 ~ 현재)
 
 
 - 🎮 **모의 해킹 대회** CTF Team Maple (2019 ~ 현재)
