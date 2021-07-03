@@ -12,7 +12,7 @@
   -  팀장 (2020 ~ 2021)
 
 
-- 🔭 Google Developer Group, **GDG** Daejoen (2019 ~ 현재)
+- 🔭 **Google Developer Group**, GDG Daejoen (2019 ~ 현재)
 
 
 - 🎮 **모의 해킹 대회** CTF Team Maple (2019 ~ 현재)
@@ -71,27 +71,11 @@
   
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dhslrl321&&style=flat-square" align="center" />
-</div>  
+</div>
 
-<!--
-### Hi there 👋
+<br />
 
-**dhslrl321/dhslrl321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
