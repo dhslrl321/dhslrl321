@@ -5,17 +5,9 @@
   
 
 - 🔭 차세대 보안 인재 양성 프로그램 [Best on the best 10기](https://github.com/rishavanand/github-profilinator) 교육생  
-  
-
 - 🌱 배재대학교 정보보안학과 웹 연구실 Locs 팀장 (2020 ~ 2021)
-  
-
 - ❓ GDG Daejoen (2019 ~ 현재)
-  
-
 - ⚡ CTF Team Maple (2019 ~ 현재)
-  
-
 - Team EU Founder (2019 ~ 2020)
     
 
@@ -62,6 +54,7 @@
 </div>
 
 </td></tr></table>  
+<br />
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhslrl321&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
