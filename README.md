@@ -20,7 +20,7 @@
 - 🎮 **모의 해킹 대회** CTF Team Maple (2019 ~ 현재)
 
 
-- 🚀 Kitri **차세대 보안 리더 양성 프로그램** [Best of the best](https://www.kitribob.kr) 10기 교육생  
+- 🚀 Kitri **차세대 보안 리더 양성 프로그램** [Best of the best](https://www.kitribob.kr) 10기 보안제품개발 트랙 교육생  
     
 
 <br/>  
@@ -70,6 +70,12 @@
 
 ## 📈 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhslrl321&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+## 📈 블로그
+
+- 기술 블로그 [tistory](https://wonit.tistory.com)
+- 회고 블로그 [velog](https://velog.io/@programador)
+- youtube [아이앰코딩](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A)
   
 <br />
 
