@@ -1,25 +1,24 @@
 ## Hi there 👋
   
 
-### <div align="center">백엔드 개발자 장원익 👨‍💻 입니다</div>  
+### **보안에 관심이 많은** <div align="center">백엔드 개발자 장원익 👨‍💻 입니다</div>  
   
 
 - 🔭 차세대 보안 인재 양성 프로그램 [Best on the best 10기](https://github.com/rishavanand/github-profilinator) 교육생  
   
 
-- 🌱 Locs  
+- 🌱 배재대학교 정보보안학과 웹 연구실 Locs 팀장 (2020 ~ 2021)
   
 
-- ❓ GDG Daejoen  
+- ❓ GDG Daejoen (2019 ~ 현재)
   
 
-- ⚡ CTF Team Maple  
+- ⚡ CTF Team Maple (2019 ~ 현재)
   
 
-- undefined  
-  
+- Team EU Founder (2019 ~ 2020)
+    
 
-<br/>  
 
 
 ## My Skill Set  
@@ -62,15 +61,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-  
-
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhslrl321&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
