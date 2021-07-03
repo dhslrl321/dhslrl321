@@ -74,8 +74,14 @@
 ## ✏️ 활동
 
 - 기술 블로그 [tistory](https://wonit.tistory.com)
+
+
 - 회고 블로그 [velog](https://velog.io/@programador)
+
+
 - youtube [아이앰코딩](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A)
+
+
 - 취약점 제보
   - KVE-2021-0459 : OO대학교 기숙사 홈페이지
   
