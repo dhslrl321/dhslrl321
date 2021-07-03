@@ -7,6 +7,7 @@
 
 
 - 🌱 **배재대학교 정보보안학과 연구실** Locs
+
   -  팀원 (2016 ~ 2019)
   -  팀장 (2020 ~ 2021)
 
@@ -23,12 +24,12 @@
 <br/>  
 
 
-## My Skill Set  
+## 📚 My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 <br/>  
 
-### Frontend  
+### 🎨 Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -40,7 +41,7 @@
 
 
 
-### Backend  
+### 🛠 Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
@@ -52,7 +53,7 @@
 
 
 
-### DevOps  
+### ⚙️ DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
@@ -65,7 +66,7 @@
 </td></tr></table>  
 <br />
 
-## Github Stats  
+## 📈 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhslrl321&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   
 <br />
