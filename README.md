@@ -1,7 +1,7 @@
 ## Hi there 👋
   
 
-### **보안에 관심이 많은** <div align="center">백엔드 개발자 장원익 👨‍💻 입니다</div>  
+### <div align="center">보안에 관심이 많은 백엔드 개발자 장원익 👨‍💻 입니다</div>  
   
 
 - 🔭 차세대 보안 인재 양성 프로그램 [Best on the best 10기](https://github.com/rishavanand/github-profilinator) 교육생  
