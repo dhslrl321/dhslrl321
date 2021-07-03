@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+## Hi there 👋
   
 
 ### <div align="center">백엔드 개발자 장원익 👨‍💻 입니다</div>  
