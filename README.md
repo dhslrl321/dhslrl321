@@ -14,11 +14,12 @@
   -  팀장 (2019.12 ~ 2021.03)
 
 
-- 🔭 **Google Developer Group**, GDG Daejoen (2019 ~ 현재)
+- 🔭 **Google Developer Group**, GDG Daejoen
+  - 커뮤니티 멤버 (2019 ~ 현재)
 
 
 - 🎮 **모의 해킹 대회** CTF Team Maple (2019 ~ 현재)
-
+  - 웹 해킹, 암호학 파
 
 - 🚀 [Kitri](https://www.kitri.re.kr/kitri/main/main.web?) **차세대 보안 리더 양성 프로그램** [Best of the best](https://www.kitribob.kr)
   -  10기 [보안제품개발] 트랙 교육생  (2021.07 ~ 2022.03)
