@@ -113,16 +113,19 @@
   - My Role : Game Engine(Cerberus-X), Deploy(Nginx, EC2)
   - [github 바로가기](https://github.com/dhslrl321/Egg-Shooting)
   - Result : 결과 발표회 수상
+
 - **원격 데스크톱 관리 솔루션**
   - 프로젝트 기간 : 2019.10 ~ 2020.01
   - My Role : Desktop(JavaFX + 파일 암호화 모듈)
   - [DBpia 논문 검색](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE09286801)
   - Result : 한국 컨텐츠 학회 논문 등재
+
 - **MSA를 이용한 지출 분석 서비스**
   - 프로젝트 기간 : 2020.11 ~ 2020.11
   - My Role : Game Engine(Cerberus-X), Deploy(Nginx, EC2)
   - [github 바로가기](https://github.com/dhslrl321/Finx-App)
   - Result : SW 해커톤(과기부, 배재대) 장려상 수상
+
 - **access log 기반 웹 위협 탐지 모니터링 솔루션**
   - 프로젝트 기간 : 2020.12 ~ 2021.03
   - My Role : Front(react), Back(Springboot), Deploy(Nginx, docker-compose)
