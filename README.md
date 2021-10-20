@@ -93,13 +93,13 @@
 ## 📺 운영 서비스
 
 - **블레스 뮤직 스튜디오 공식 홈페이지**
-  - [홈페이지 바로가기](http://blessmusic.cf) [서버 반납]
+  - [http://blessmusic.cf](http://blessmusic.cf) [서버 반납]
   - My Role : 1인 프로젝트-Front(react-cra), CI/CD(Travis CI, AWS S3, CodeDeploy)
   - 서비스 운영 기간 : 2020.12 ~ 2021.03
   - [github 바로가기](https://github.com/dhslrl321/Bless-Music-Studio)
 
 - **배재대학교 정보보안학과 공식 홈페이지**
-  - [홈페이지 바로가기](http://cyber.pcu.ac.kr)
+  - [http://cyber.pcu.ac.kr](http://cyber.pcu.ac.kr)
   - My Role : PM, Front(next.js), Back(Spring Cloud), DevOps(docker)
   - 서비스 운영 기간 : 2021.03 ~ 현재
   - [github 바로가기](https://github.com/dhslrl321/PCUSS-Official-Site)
@@ -128,7 +128,7 @@
 
 - **MSA를 이용한 지출 분석 서비스**
   - 프로젝트 기간 : 2020.11 ~ 2020.11
-  - My Role : Game Engine(Cerberus-X), Deploy(Nginx, EC2)
+  - My Role : PM-Front : React, Backend : Spring Cloud (Zuul, Eureka)
   - [github 바로가기](https://github.com/dhslrl321/Finx-App)
   - Result : SW 해커톤(과기부, 배재대) 장려상 수상
 
