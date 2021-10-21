@@ -100,13 +100,13 @@
 
 - **배재대학교 정보보안학과 공식 홈페이지**
   - [http://cyber.pcu.ac.kr](http://cyber.pcu.ac.kr)
-  - My Role : PM, Front(next.js), Back(Spring Cloud), DevOps(docker)
+  - My Role : PM, Front(next.js), Back(Spring Cloud), Infra(docker)
   - 서비스 운영 기간 : 2021.03 ~ 현재
   - [github 바로가기](https://github.com/dhslrl321/PCUSS-Official-Site)
 
 - **메이플스토리 사기유저 검색 서비스**
   - [https://maplecheater.com](https://maplecheater.com)
-  - My Role : Front(next.js), Back(Spring Boot), DevOps(docker, nginx)
+  - My Role : Front(next.js), Back(Spring Boot), Infra(NHN-Cloud, AWS-S3, docker, nginx-proxy)
   - 서비스 운영 기간 : 2021.10 ~ 현재
   - [github 바로가기](https://github.com/dhslrl321/Maple-Cheater)
 
