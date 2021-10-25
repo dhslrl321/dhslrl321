@@ -134,7 +134,7 @@
 
 - **access log 기반 웹 위협 탐지 모니터링 솔루션**
   - 프로젝트 기간 : 2020.12 ~ 2021.03
-  - My Role : Front(react), Back(Springboot), Deploy(Nginx, docker-compose)
+  - My Role : Front(React), Back(Springboot), Deploy(Nginx, docker-compose)
   - [github 바로가기](https://github.com/dhslrl321/L7-monitor)
 
 <br />
