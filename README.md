@@ -137,6 +137,11 @@
   - My Role : Front(React), Back(Springboot), Deploy(Nginx, docker-compose)
   - [github 바로가기](https://github.com/dhslrl321/L7-monitor)
 
+- **클라우드 샌드박스 기반 해킹 교육 플랫폼**
+  - 프로젝트 기간 : 2021.07 ~ **진행중**
+  - My Role : Backend (Springboot)
+  - [github 바로가기](https://github.com/V-Ground/Backend)
+
 <br />
 
 <div align="center">
