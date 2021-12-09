@@ -116,19 +116,13 @@
 
 ## ⚒ Project 
 
-- **웹 디펜스 게임**
-  - 프로젝트 기간 : 2019.08 ~ 2019.08
-  - My Role : Game Engine(Cerberus-X), Deploy(Nginx, EC2)
-  - [github 바로가기](https://github.com/dhslrl321/Egg-Shooting)
-  - Result : 결과 발표회 수상
-
 - **access log 기반 웹 위협 탐지 모니터링 솔루션**
-  - 프로젝트 기간 : 2020.12 ~ 2021.03
+  - 프로젝트 기간 : 2021.07 ~ 2021.09
   - My Role : Front(React), Back(Springboot), Deploy(Nginx, docker-compose)
   - [github 바로가기](https://github.com/dhslrl321/L7-monitor)
 
 - **클라우드 기반 샌드박스 해킹 교육 플랫폼**
-  - 프로젝트 기간 : 2021.07 ~ **진행중**
+  - 프로젝트 기간 : 2021.09 ~ 2021.12
   - My Role : Frontend(react, next), Backend (Springboot)
   - [Front-End github 바로가기](https://github.com/V-Ground/Frontend)
   - [Back-End github 바로가기](https://github.com/V-Ground/Backend)
