@@ -24,7 +24,7 @@
 - 🚀 [Kitri](https://www.kitri.re.kr/kitri/main/main.web?) **차세대 보안 리더 양성 프로그램** [Best of the best](https://www.kitribob.kr)
   -  10기 [보안제품개발] 트랙 교육생  (2021.07 ~ 2022.03)
     
-- Softbank Ventures **대학생 벤쳐 기사단** [UKOV](https://ukov.co.kr)
+- 🏦 Softbank Ventures **대학생 벤쳐 기사단** [UKOV](https://ukov.co.kr)
   - 25기 개발 (2022.01 ~ 2022.07)
 
 <br/>  
