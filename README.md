@@ -131,6 +131,13 @@
 
 <br />
 
+## 🗞 인터넷 기사
+
+- **[차세대 보안 리더 BoB 10기 발대식 개최…최종 200명 교육생 선발](https://www.dailysecu.com/news/articleView.html?idxno=126252)**
+- **[스타트업 인재 채용 산실로 우뚝...소프트뱅크벤처스 '유코브'에 눈길](https://www.techm.kr/news/articleView.html?idxno=93534)**
+
+<br />
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=dhslrl321&&style=flat-square" align="center" />
 </div>
