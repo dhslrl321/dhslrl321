@@ -4,22 +4,9 @@
 ### <div align="center">웹 애플리케이션 보안에 관심이 많은 백엔드 개발자 장원익 👨‍💻 입니다</div>  
   
 <br/>  
-  
-- ⚽️ **IT 창업팀** Team EU Founder (2019 ~ 2020)
-  - 팀장 (2019.04 ~ 2020.03)
-
-- 🌱 **배재대학교 정보보안학과 연구실** Locs
-
-  -  팀원 (2016.03 ~ 2019.11)
-  -  팀장 (2019.12 ~ 2021.03)
-
 
 - 🔭 **Google Developer Group**, GDG Daejoen
   - 커뮤니티 멤버 (2019 ~ 현재)
-
-
-- 🎮 **모의 해킹 대회** CTF Team Maple (2019 ~ 현재)
-  - 웹 해킹, 암호학 파트
 
 - 🚀 [Kitri](https://www.kitri.re.kr/kitri/main/main.web?) **차세대 보안 리더 양성 프로그램** [Best of the best](https://www.kitribob.kr)
   -  10기 [보안제품개발] 트랙 교육생  (2021.07 ~ 2022.03)
@@ -86,7 +73,7 @@
 - youtube [아이앰코딩](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A)
 
 
-- 취약점 제보
+- **취약점 제보**
   - KVE-2021-xxxx : xx대학교 기숙사 홈페이지 로그인 권한 관련 취약점
     - 평가 대상 제외 (서비스 취약점)
   - NBB-22xx : 네이버 xx 서비스 xx 취약점
