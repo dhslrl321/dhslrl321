@@ -16,6 +16,14 @@
 
 <br/>  
 
+## 🗳 My Work Experience
+
+- **트레바리** (2022.01 ~ 현재)
+  - Platform Engineering Cell, Backend Developer Internship
+
+<br/>  
+
+
 
 ## 📚 My Skill Set  
 <table><tr><td valign="top" width="33%">
