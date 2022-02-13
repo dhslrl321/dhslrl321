@@ -19,6 +19,7 @@
 ## 🗳 My Work Experience
 
 - 📙 **독서 모임 플랫폼 트레바리** (2022.01 ~ 현재)
+
   - **Platform Engineering** Cell
   - Backend Developer Internship
 
