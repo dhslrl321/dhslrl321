@@ -88,7 +88,7 @@
     - 평가 대상 제외 (서비스 취약점)
   - NBB-22xx : 네이버 xx 서비스 xx 취약점
     - 유효 리포트 선정
-    - 2021 명예의 전당 
+    - [2021 명예의 전당](https://bugbounty.naver.com/ko/halloffame_2021)
   
 <br />
 
