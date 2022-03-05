@@ -134,6 +134,7 @@
 - **[차세대 보안 리더 BoB 10기 발대식 개최…최종 200명 교육생 선발](https://www.dailysecu.com/news/articleView.html?idxno=126252)**
 - **[안철수 대표, KITRI BoB 10기 특강](https://www.edaily.co.kr/news/read?galleryno=&newsId=03493206632194440&mediaCodeNo=257)**
 - **[스타트업 인재 채용 산실로 우뚝...소프트뱅크벤처스 '유코브'에 눈길](https://www.techm.kr/news/articleView.html?idxno=93534)**
+- **[네이버, ‘2021 네이버 버그바운티 어워드’ 시상식 진행](http://www.itdaily.kr/news/articleView.html?idxno=206501)**
 
 <br />
 
