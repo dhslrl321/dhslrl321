@@ -1,7 +1,7 @@
 ## Hi there 👋
   
 
-### <div align="center">웹 애플리케이션 보안에 관심이 많은 백엔드 개발자 장원익 👨‍💻 입니다</div>  
+### <div align="center">객체지향에 관심이 많은 백엔드 개발자 장원익 👨‍💻 입니다</div>  
   
 <br/>  
 
