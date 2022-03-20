@@ -25,9 +25,6 @@
 
 <br />
 
-## 📈 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dhslrl321&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 ## ✏️ 활동
 
 - 기술 블로그 [tistory](https://wonit.tistory.com)
