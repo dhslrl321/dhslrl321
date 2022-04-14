@@ -21,7 +21,6 @@
 - 📙 독서 모임 커뮤니티 플랫폼 **트레바리, Trevari** (2022.01 ~ 현재)
 
   - Tech Unit **Platform Engineering** Cell
-  - Backend Developer Internship
 
 <br />
 
