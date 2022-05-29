@@ -22,6 +22,13 @@
 
   - Tech Unit **Platform Engineering** Cell
 
+<br />
+
+## ✏️ 활동
+
+- 🖌 **기술 블로그** [https://wonit.tistory.com](https://wonit.tistory.com)
+
+- 📺 **youtube** [jangwonik](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A)
 
 - 🔥 **취약점 제보**
   - `KVE-2021-xxxx` : xx대학교 기숙사 홈페이지 로그인 권한 관련 취약점
@@ -29,15 +36,6 @@
   - `NBB-2202` : 네이버 xx 서비스 xx 취약점
     - 유효 리포트 선정
     - [2021 명예의 전당](https://bugbounty.naver.com/ko/halloffame_2021)
-
-<br />
-
-## ✏️ 활동
-
-- 기술 블로그 [https://wonit.tistory.com](https://wonit.tistory.com)
-
-- youtube [jangwonik](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A)
-
   
 <br />
 
