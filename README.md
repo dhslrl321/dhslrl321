@@ -26,9 +26,9 @@
 
 ## ✏️ 활동
 
-- 기술 블로그 [tistory](https://wonit.tistory.com)
+- 기술 블로그 [https://wonit.tistory.com](https://wonit.tistory.com)
 
-- youtube [아이앰코딩](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A)
+- youtube [jangwonik](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A)
 
 
 - **취약점 제보**
