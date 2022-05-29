@@ -28,10 +28,6 @@
 
 - 기술 블로그 [tistory](https://wonit.tistory.com)
 
-
-- 회고 블로그 [velog](https://velog.io/@programador)
-
-
 - youtube [아이앰코딩](https://www.youtube.com/channel/UC-y9guKVBIwWDZ1HpwcWu6A)
 
 
@@ -42,43 +38,6 @@
     - 유효 리포트 선정
     - [2021 명예의 전당](https://bugbounty.naver.com/ko/halloffame_2021)
   
-<br />
-
-## 📺 운영 서비스
-
-- **블레스 뮤직 스튜디오 공식 홈페이지**
-  - [http://blessmusic.cf](#) [서비스 종료]
-  - My Role : 1인 프로젝트-Front(react-cra), CI/CD(Travis CI, AWS S3, CodeDeploy)
-  - 서비스 운영 기간 : 2020.12 ~ 2021.03
-  - [github 바로가기](https://github.com/dhslrl321/Bless-Music-Studio)
-
-- **배재대학교 정보보안학과 공식 홈페이지** [서비스 종료]
-  - [http://cyber.pcu.ac.kr](http://cyber.pcu.ac.kr)
-  - My Role : PM, Front(next.js), Back(Spring Cloud), Infra(docker)
-  - 서비스 운영 기간 : 2021.03 ~ 현재
-  - [github 바로가기](https://github.com/dhslrl321/PCUSS-Official-Site)
-
-- **메이플스토리 사기유저 검색 서비스** [서비스 종료]
-  - [https://maplecheater.com](https://maplecheater.com)
-  - My Role : Front(next.js), Back(Spring Boot), Infra(NHN-Cloud, AWS-S3, docker, nginx-proxy)
-  - 서비스 운영 기간 : 2021.10 ~ 현재
-  - [github 바로가기](https://github.com/dhslrl321/Maple-Cheater)
-
-<br />
-
-## ⚒ Project 
-
-- **access log 기반 웹 위협 탐지 모니터링 솔루션**
-  - 프로젝트 기간 : 2021.07 ~ 2021.09
-  - My Role : Front(React), Back(Springboot), Deploy(Nginx, docker-compose)
-  - [github 바로가기](https://github.com/dhslrl321/L7-monitor)
-
-- **클라우드 기반 샌드박스 해킹 교육 플랫폼**
-  - 프로젝트 기간 : 2021.09 ~ 2021.12
-  - My Role : Frontend(react, next), Backend (Springboot)
-  - [Front-End github 바로가기](https://github.com/V-Ground/Frontend)
-  - [Back-End github 바로가기](https://github.com/V-Ground/Backend)
-
 <br />
 
 ## 🗞 인터넷 기사
